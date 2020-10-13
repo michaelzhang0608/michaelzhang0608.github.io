@@ -1,0 +1,41 @@
+html {
+  font-family: serif;
+  background-color: #fac857;
+}
+p  {
+  color: black;
+}
+h1 {
+  font-family: serif;
+  color:#8f56af;
+  font-size: 350%;
+}
+
+li a{
+  color:#8f56af;
+  font-size: large;
+}
+
+cite {
+  color:#8f56af;
+}
+
+img {
+  filter: contrast(50%);
+}
+
+nav a {
+  font-size: 24px
+}
+
+nav ul {
+  display: inline;
+  list-style-type: none;
+}
+ li a {
+   display: inline-block;
+   border-style: hidden;
+ }
+ ul li {
+  display: inline;
+}
